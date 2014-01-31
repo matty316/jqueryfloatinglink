@@ -1,0 +1,14 @@
+.jQueryFloatingLink {
+	text-decoration: none;
+	position: fixed;
+	bottom: 20px;
+	left: 20px;
+	background: #F06EA2;
+	color: #ffffff;
+	padding: 10px;
+	display: none;
+	z-index: 99999;
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	border-radius: 10px;
+}
